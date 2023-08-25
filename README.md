@@ -5,7 +5,6 @@
   | Date | Event Name | Link |
   |:--:|:--:|:--:|
   |10.08.2023|ML Hackathon: The Wild Life of Utashuda|[Read more](https://cups.online/ru/contests/hackathon_ai_arrow)
-  |04.04.2023|Opening of the Regional Stage of the Professionals Professional Skills Championship in Nizhny Novgorod|[Read More](https://vk.com/@profesnn-otkrytie-regionalnogo-etapa-chempionata-po-professionalnomu)
   |01.04.2023|International Olympiad "IT-Planet 2023" in the competition of Postgres Professional|[Read more](https://postgrespro.ru/blog/news/5969938).
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "ALT Linux" |[Read more](https://tbolimpiada.ru/nomination/39)
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "Game Development"|[Read more](https://tbolimpiada.ru/design/images/about_nomitations/11.pdf)
@@ -26,7 +25,6 @@
   | Дата | Название мероприятие | Ссылка |
   |:--:|:--:|:--:|
   |10.08.2023|ML Хакатон: Дикая жизнь Уташуда|[Подробнее](https://cups.online/ru/contests/hackathon_ai_arrow)
-  |04.04.2023|Открытии Регионального этапа чемпионата по профессиональному мастерству «Профессионалы» в Нижнем Новгороде|[Подробнее](https://vk.com/@profesnn-otkrytie-regionalnogo-etapa-chempionata-po-professionalnomu)
   |01.04.2023|Международная олимпиада "IT-Планета 2023" в конкурсе компании Postgres Professional|[Подробнее](https://postgrespro.ru/blog/news/5969938)
   |19.01.2023|Олимпиада "Траектория будущего" номинация "ALT Linux" |[Подробнее](https://tbolimpiada.ru/nomination/39)
   |19.01.2023|Олимпиада "Траектория будущего" номинация "Разработка игр"|[Подробнее](https://tbolimpiada.ru/design/images/about_nomitations/11.pdf)
