@@ -4,6 +4,7 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |08.09.2023|Participation in the All-Russian hackathon "Digital Breakthrough"|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969091&caseEl=1003468&tab=3)
   |10.08.2023|ML Hackathon: The Wild Life of Utashuda|[Read more](https://cups.online/ru/contests/hackathon_ai_arrow)
   |01.04.2023|International Olympiad "IT-Planet 2023" in the competition of Postgres Professional|[Read more](https://postgrespro.ru/blog/news/5969938)
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "ALT Linux" |[Read more](https://tbolimpiada.ru/nomination/39)
