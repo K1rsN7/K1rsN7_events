@@ -4,7 +4,9 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
-  |08.09.2023|Participation in the All-Russian hackathon "Digital Breakthrough"|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969091&caseEl=1003468&tab=3)
+  |13.10.2023|Participation in the circle hackathon "Digital Breakthrough" in Sochi 12th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969082)
+  |22.09.2023|Participation in the circle hackathon "Digital Breakthrough" in Khabarovsk 5th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969080)
+  |08.09.2023|Participation in the All-Russian hackathon "Digital Breakthrough" 17th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969091&caseEl=1003468&tab=3)
   |10.08.2023|ML Hackathon: The Wild Life of Utashuda|[Read more](https://cups.online/ru/contests/hackathon_ai_arrow)
   |01.04.2023|International Olympiad "IT-Planet 2023" in the competition of Postgres Professional|[Read more](https://postgrespro.ru/blog/news/5969938)
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "ALT Linux" |[Read more](https://tbolimpiada.ru/nomination/39)
@@ -16,6 +18,6 @@
   |10.10.2022|Interregional Hackathon "IT Space" on "Mobile Game Development"|[Read more](https://www.copp78.ru/itspace)
   |13.09.2022|All-Russian educational action "IT-DICTANT"|[Read more](https://dictant.site/diktant-po-informaczionnym-tehnologiyam-it-diktant.html)
   |01.07.2022|National Open Championship of Artmasters Creative Competences in the competence "Game Designer"|[Read more](https://gnesin-academy.ru/wp-content/documents/tvorchestvo/Art%D0%9Caster_2022.pdf)
-  |24.12.2021|Tournament "IT-Qviz"|[Подробнее](https://vk.com/wall-207040324_78)
+  |24.12.2021|Tournament "IT-Qviz" 1st place.|[Подробнее](https://vk.com/wall-207040324_78)
   
 </div>
