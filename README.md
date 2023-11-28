@@ -4,6 +4,7 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |28.11.2023|Winners of the international online hackathon "Smart City. Smart House"|[Read more](https://nnov.hse.ru/news/876088653.html)
   |13.10.2023|Participation in the circle hackathon "Digital Breakthrough" in Sochi 12th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969082)
   |22.09.2023|Participation in the circle hackathon "Digital Breakthrough" in Khabarovsk 5th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969080)
   |08.09.2023|Participation in the All-Russian hackathon "Digital Breakthrough" 17th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969091&caseEl=1003468&tab=3)
