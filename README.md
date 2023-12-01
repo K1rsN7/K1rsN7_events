@@ -4,6 +4,7 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |30.11.2023|RecSys Meetup by Sber|[Read more](https://developers.sber.ru/kak-v-sbere/hiring-events/recsys_novgorod?utm_source=telegram&utm_medium=fix&utm_campaign=meetup_nino_nov_2023_post&utm_content=&utm_term=ai_machinelearning_big_data&erid=LjN8KVqUf)
   |28.11.2023|Winners of the international online hackathon "Smart City. Smart House"|[Read more](https://nnov.hse.ru/news/876088653.html)
   |13.10.2023|Participation in the circle hackathon "Digital Breakthrough" in Sochi 12th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969082)
   |22.09.2023|Participation in the circle hackathon "Digital Breakthrough" in Khabarovsk 5th place|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969080)
