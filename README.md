@@ -4,6 +4,7 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |17.12.2023|Participation in the ATOMIC HACK hkathon in Nizhny Novgorod|Read More](https://hack-atom.ru/)
   |13.12.2023|Passing the demonstration exam for the competence "Machine Learning and Big Data"|[Read More](https://pk.dp.firpo.ru/c//13eec4ad-7d38-41f5-aefe-75528b26f741) Key='Сухоруков' 
   |30.11.2023|RecSys Meetup by Sber|[Read more](https://developers.sber.ru/kak-v-sbere/hiring-events/recsys_novgorod?utm_source=telegram&utm_medium=fix&utm_campaign=meetup_nino_nov_2023_post&utm_content=&utm_term=ai_machinelearning_big_data&erid=LjN8KVqUf)
   |28.11.2023|Participation in the international hackathon "Digital Breakthrough" in Moscow|[Read more](https://hacks-ai.ru/hackathons.html?eventId=969092)
