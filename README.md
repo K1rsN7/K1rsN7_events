@@ -19,6 +19,7 @@
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "ALT Linux" |[Read more](https://tbolimpiada.ru/nomination/39)
   |19.01.2023|Olympiad "Trajectory of the Future" nomination "Game Development"|[Read more](https://tbolimpiada.ru/design/images/about_nomitations/11.pdf)
   |26.12.2022|Winter School of Mathematics and Computer Science "Intellectual-2022"|[Read more](https://nnov.hse.ru/bipm/plus/wintschool22)
+  |10.12.2022|Presentation at the All-Russian Scientific and Practical Student Conference "Modern Economics: Current Issues, Achievements and Innovations".|[Read more](https://niu.ranepa.ru/news/novosti-filiala.php?ELEMENT_ID=809832)
   |04.12.2022|Olympiad "Trajectory of the Future" nomination "Python"|[Read more](https://tbolimpiada.ru/design/images/about_nomitations/50.pdf)
   |04.12.2022|Olympiad "Trajectory of the Future" nomination "3D-graphics"|[Read more](https://tbolimpiada.ru/design/images/about_nomitations/218.pdf)
   |23.11.2022|Interregional scientific and technical hackathon on programming in Python and Java|[Read more](https://m.vk.com/wall-207040324_344)
