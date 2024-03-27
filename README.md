@@ -6,6 +6,7 @@
   |:--:|:--:|:--:|
   |27.03.2024|An article about me on the "Digital Breakthrough"|[Read More](https://vk.com/@leadersofdigital-chelovek-kotoryi-delaet-gorod-umnee)
   |29.02.2024|Product hackathon "GARAGE STARTUP SPRINT"|[Read More](https://www.nnov.kp.ru/daily/27577.5/4900497/)
+  |24.02.2024|News on the college website about the report "Smart City - Smart Barrier" at the Euro-Asian IT Forum Digital sovereignty as a basis for long-term international cooperation|[Read More](https://nntc.nnov.ru/node/8834)
   |21.02.2024|Report on "Smart City - Smart Barrier" at the Euro-Asian IT Forum Digital sovereignty as a basis for long-term international cooperation|[Read More](https://euro-asian-forum.platform.gov.ru/wp-content/uploads/sites/2/2023/12/programme_euro-asian-it-forum_february-20-21-2024_eng.pdf)
   |20.02.2024|Participation in the Euro-Asian IT Forum Digital Sovereignty as a basis for long-term international cooperation|[Read More](https://nnov.hse.ru/news/900341851.html)
   |17.12.2023|Participation in the hackathon "ATOMIC HACK" in Nizhny Novgorod 11th place|[Read More](https://hack-atom.ru/)
