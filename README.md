@@ -30,5 +30,6 @@
   |13.09.2022|All-Russian educational action "IT-DICTANT"|[Read more](https://dictant.site/diktant-po-informaczionnym-tehnologiyam-it-diktant.html)
   |01.07.2022|National Open Championship of Artmasters Creative Competences in the competence "Game Designer"|[Read more](https://gnesin-academy.ru/wp-content/documents/tvorchestvo/Art%D0%9Caster_2022.pdf)
   |24.12.2021|Tournament "IT-Qviz" 1st place.|[Подробнее](https://vk.com/wall-207040324_78)
+  |15.03.2021|Participation in a career guidance master class for schoolchildren from Rostelecom PJSC under the "Pathway to Life" program at the NRTK State Educational Institution of Higher Professional Education|[Подробнее](https://nntc.nnov.ru/node/6291)
   
 </div>
