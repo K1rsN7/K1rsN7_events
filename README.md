@@ -4,6 +4,8 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |24.04.2024|News with me about winning the international online Hackathon “Digital Transformation of AIC”|[Read More](https://nnov.hse.ru/news/edu/917492292.html)
+  |19.04.2024|Winning the International Online Hackathon “Digital Transformation of the Agroindustrial Complex”|[Read More](https://nntc.nnov.ru/node/9147)
   |27.03.2024|An article about me on the "Digital Breakthrough"|[Read More](https://vk.com/@leadersofdigital-chelovek-kotoryi-delaet-gorod-umnee)
   |29.02.2024|Product hackathon "GARAGE STARTUP SPRINT"|[Read More](https://www.nnov.kp.ru/daily/27577.5/4900497/)
   |24.02.2024|News on the college website about the report "Smart City - Smart Barrier" at the Euro-Asian IT Forum Digital sovereignty as a basis for long-term international cooperation|[Read More](https://nntc.nnov.ru/node/8834)
