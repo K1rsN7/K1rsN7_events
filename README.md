@@ -4,6 +4,8 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |18.05.2024|3rd place in the finals of the international hackathon “IT-Planeta 2024” in the competence “AI-SportTech - SportTechCup 2024”|[Read More](https://challenge.braim.org/certificates/2159c6f6-252c-44f3-a38e-b5569b595277)
+  |14.05.2024|Attending the event “Data Science Fest” in Nizhny Novgorod from Skoltech lecture hall|[Read More](https://vk.com/album-34737049_303025693)
   |24.04.2024|News with me about winning the international online Hackathon “Digital Transformation of AIC”|[Read More](https://nnov.hse.ru/news/edu/917492292.html)
   |19.04.2024|Winning the International Online Hackathon “Digital Transformation of the Agroindustrial Complex”|[Read More](https://nntc.nnov.ru/node/9147)
   |27.03.2024|An article about me on the "Digital Breakthrough"|[Read More](https://vk.com/@leadersofdigital-chelovek-kotoryi-delaet-gorod-umnee)
