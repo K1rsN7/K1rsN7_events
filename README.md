@@ -4,6 +4,7 @@
   
   | Date | Event name | Reference |
   |:--:|:--:|:--:|
+  |17.09.2025|Motivational personal interview|[Read More](https://vk.com/wall-64574575_10886)
   |08.09.2024|Participation in the district hackathon “Digital Breakthrough” in Omsk 7th place|[Read More](https://hacks-ai.ru/events/1077378)
   |18.05.2024|3rd place in the finals of the international hackathon “IT-Planeta 2024” in the competence “AI-SportTech - SportTechCup 2024”|[Read More](https://challenge.braim.org/certificates/2159c6f6-252c-44f3-a38e-b5569b595277)
   |14.05.2024|Attending the event “Data Science Fest” in Nizhny Novgorod from Skoltech lecture hall|[Read More](https://vk.com/album-34737049_303025693)
